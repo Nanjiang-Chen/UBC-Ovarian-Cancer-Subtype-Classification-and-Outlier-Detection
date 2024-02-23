@@ -1,2 +1,2 @@
 # UBC-Ovarian-Cancer-Subtype-Classification-and-Outlier-Detection-UBC-OCEAN-
-Competition Code: UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN) (Navigating Ovarian Cancer: Unveiling Common Histotypes and Unearthing Rare Variants)
+Competition Code: Navigating Ovarian Cancer: Unveiling Common Histotypes and Unearthing Rare Variants
